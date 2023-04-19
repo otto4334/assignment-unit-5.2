@@ -1,0 +1,11 @@
+.header {
+    background-color: rgb(29, 29, 29);
+    color: rgba(206, 206, 206, 0.705);
+    text-align: center;
+}
+
+.main {
+    background-color: lightgrey;
+    background-image: url(/Users/mikeotto/Docs/Prime_FullStack/Tier_1/Unit_5/assignment-unit-5.2/assignment/record.png);
+    background-repeat: url('/Users/mikeotto/Docs/Prime_FullStack/Tier_1/Unit_5/assignment-unit-5.2/assignment/record.png');
+}

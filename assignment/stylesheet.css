@@ -2,10 +2,21 @@
     background-color: rgb(29, 29, 29);
     color: rgba(206, 206, 206, 0.705);
     text-align: center;
+    border-radius: 15px 15px 15px 15px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
-
 .main {
     background-color: lightgrey;
-    background-image: url(/Users/mikeotto/Docs/Prime_FullStack/Tier_1/Unit_5/assignment-unit-5.2/assignment/record.png);
-    background-repeat: url('/Users/mikeotto/Docs/Prime_FullStack/Tier_1/Unit_5/assignment-unit-5.2/assignment/record.png');
+    text-align: justify;
+    padding: .1em;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px 10px 10px 10px;
+}
+.body {
+    margin: 0;
+    padding: 1em;
+    background-image: url("/Users/mikeotto/Docs/Prime_FullStack/Tier_1/Unit_5/assignment-unit-5.1/assignment/record.png");
+    background-repeat: url("/Users/mikeotto/Docs/Prime_FullStack/Tier_1/Unit_5/assignment-unit-5.1/assignment/record.png");
 }
